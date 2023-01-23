@@ -23,3 +23,7 @@ https://learn.udacity.com/nanodegrees/nd118/parts/cd0382/lessons/f20bad9d-ef0f-4
 ### Author
 
 Nhut
+
+### License
+
+No license
