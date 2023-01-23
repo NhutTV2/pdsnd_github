@@ -3,12 +3,6 @@ ny = read.csv('new_york_city.csv')
 wash = read.csv('washington.csv')
 chi = read.csv('chicago.csv')
 
-head(ny)
-
-head(wash)
-
-head(chi)
-
 # Convert Start.Time into month, and save it as a separate column
 ny$month= format(as.Date(ny$Start.Time, format="%Y-%m-%d %H:%M:%S"),'%b')
 wash$month = format(as.Date(wash$Start.Time, format="%Y-%m-%d %H:%M:%S"), '%b')
