@@ -19,3 +19,7 @@ washington.csv
 ### Credits
 
 https://learn.udacity.com/nanodegrees/nd118/parts/cd0382/lessons/f20bad9d-ef0f-4941-a23f-fc1fcd05ce46/concepts/584943e0-8bc3-4b6f-b6fe-a632fbbea5c6
+
+### Author
+
+Nhut
